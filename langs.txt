@@ -1,2 +1,2 @@
-1: Anglais\n
-2: Français\n
+1: Anglais
+2: Français
